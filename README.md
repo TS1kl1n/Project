@@ -9,7 +9,25 @@ This is a web application for converting files between different formats using F
 ## How to Run
 1. Install dependencies:
     ```sh
-    pip install -r requirements.txt
+    pip install Flask
+    ```
+    ```sh
+    pip install pdftoimageconverter
+    ```
+    ```sh
+    pip install imagetopdfconverter
+    ```
+    ```sh
+    pip install abc
+    ```
+    ```sh
+    pip install pil
+    ```
+    ```sh
+    pip install pymupdf
+    ```
+    ```sh
+    pip install 
     ```
 2. Run the application:
     ```sh
