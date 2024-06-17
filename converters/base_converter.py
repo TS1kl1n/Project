@@ -1,4 +1,4 @@
-import abc
+import abc #abstract class
 
 class BaseConverter(metaclass=abc.ABCMeta):
     def __init__(self, input_path):
