@@ -26,9 +26,6 @@ This is a web application for converting files between different formats using F
     ```sh
     pip install pymupdf
     ```
-    ```sh
-    pip install 
-    ```
 2. Run the application:
     ```sh
     python app.py
